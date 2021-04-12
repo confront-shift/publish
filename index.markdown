@@ -6,4 +6,4 @@ layout: home
 
 ---
 
-A little about us. 
+![image](assets/images/in_fine.jpg)
